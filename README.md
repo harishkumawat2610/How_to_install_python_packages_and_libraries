@@ -1,0 +1,2 @@
+# How_to_install_python_packages_and_libraries
+Important packages and libraries for major projects
